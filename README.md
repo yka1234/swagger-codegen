@@ -48,7 +48,7 @@ Swagger Codegen 2.X supports Swagger/OpenAPI version 2.
 group id: `io.swagger`
 maven central (maven plugin): https://mvnrepository.com/artifact/io.swagger/swagger-codegen-maven-plugin
 
-dependency example:
+dependency example zaza:
 
 ```
 <dependency>
