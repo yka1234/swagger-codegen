@@ -179,7 +179,7 @@ For Windows users, you will need to install [wget](http://gnuwin32.sourceforge.n
 
 On a mac, it's even easier with `brew`:
 ```sh
-brew install swagger-codegen
+brew install swagger-codegen 
 ```
 
 To build from source, you need the following installed and available in your $PATH:
@@ -188,7 +188,7 @@ To build from source, you need the following installed and available in your $PA
 
 * [Apache maven 3.3.3 or greater](http://maven.apache.org/)
 
-#### OS X Users
+#### OS X Users zaza
 
 Don't forget to install Java 8.
 
